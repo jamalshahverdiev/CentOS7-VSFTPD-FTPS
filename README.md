@@ -6,7 +6,7 @@
 #####Clone git repository to the local folder in your Linux Desktop. Go to already downloaded folder and execute install.py script:
 ```sh
 $ https://github.com/jamalshahverdiev/CentOS7-VSFTPD-FTPS.git 
-$ cd CentOS7-VSFTPD-FTPS.git
+$ cd CentOS7-VSFTPD-FTPS
 $ ./install.py
 ```
 ![InstallPy](images/installpy.jpg)
