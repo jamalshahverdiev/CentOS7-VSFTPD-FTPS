@@ -3,7 +3,7 @@
 #####This article shows us how to install and configure VSFTPD with FTPS configureation. Python code install and configure FTPS server to CentOS7 server. In CentOS7 server SeLinux is already enabled. In my example server IP address is 172.16.100.10. At the end we will check result with Clonezilla client from Windows desktop. Our network topology will be as following:
 ![TopologyScript](images/topology.jpg)
 
-####For install needed libraries to your desktop environment use this [Codes to install](https://github.com/jamalshahverdiev/c7cobblerpxe-ansible-vpshere "link").
+####For install needed libraries to your desktop environment use this [codes](https://github.com/jamalshahverdiev/c7cobblerpxe-ansible-vpshere) to install.
 #####Clone git repository to the local folder in your Linux Desktop. Go to already downloaded folder and execute install.py script:
 ```sh
 $ https://github.com/jamalshahverdiev/CentOS7-VSFTPD-FTPS.git 
