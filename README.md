@@ -6,7 +6,7 @@
 ####For install needed libraries to your desktop environment read end of [this](https://github.com/jamalshahverdiev/c7cobblerpxe-ansible-vpshere) article.
 #####Clone git repository to the local folder in your Linux Desktop. Go to already downloaded folder and execute install.py script:
 ```sh
-$ https://github.com/jamalshahverdiev/CentOS7-VSFTPD-FTPS.git 
+$ git clone https://github.com/jamalshahverdiev/CentOS7-VSFTPD-FTPS.git 
 $ cd CentOS7-VSFTPD-FTPS
 $ ./install.py
 ```
