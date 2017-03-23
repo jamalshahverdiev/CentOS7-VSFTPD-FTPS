@@ -21,8 +21,8 @@ CentOS7 VSFTPD FTPS server
 * Then go to the Windows desktop and open Filezilla client(Write ``username`` and ``password`` which you entered before and press **Quickconnect** button):
 .. image:: images/filezilla-quick-connect.jpg
 
-As we see we must accept certificate which FTPS server gives us:
+* As we see we must accept certificate which FTPS server gives us:
 .. image:: images/accept_certificate.jpg
 
-Look at the result:
+* Look at the result:
 .. image:: images/result.jpg
